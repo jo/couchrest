@@ -19,6 +19,13 @@ Alternatively, you can install from Github:
     $ gem sources -a http://gems.github.com (you only have to do this once)
     $ sudo gem install couchrest-couchrest
 
+## The TF fork
+
+NOTE: The commands above will install the original sources from http://github.com/couchrest/couchrest
+
+To install my fork, use the github gem:
+   $ sudo gem install jo-couchrest
+
 ### Relax, it's RESTful
 
 CouchRest rests on top of a HTTP abstraction layer using by default Heroku’s excellent REST Client Ruby HTTP wrapper.
