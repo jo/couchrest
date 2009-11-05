@@ -23,9 +23,7 @@ Alternatively, you can install from Github:
 
 NOTE: The commands above will install the original sources from [couchrest/couchrest](http://github.com/couchrest/couchrest).
 
-To install my fork, use the github gem:
-
-    $ sudo gem install jo-couchrest
+Install it otherwise, maybe I will bring it to gemcutter.
 
 ### Relax, it's RESTful
 
