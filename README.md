@@ -25,7 +25,7 @@ NOTE: The commands above will install the original sources from [couchrest/couch
 
 To install my fork, use the github gem:
 
-   $ sudo gem install jo-couchrest
+    $ sudo gem install jo-couchrest
 
 ### Relax, it's RESTful
 
