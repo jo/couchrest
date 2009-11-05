@@ -21,9 +21,10 @@ Alternatively, you can install from Github:
 
 ## The TF fork
 
-NOTE: The commands above will install the original sources from http://github.com/couchrest/couchrest
+NOTE: The commands above will install the original sources from [couchrest/couchrest](http://github.com/couchrest/couchrest).
 
 To install my fork, use the github gem:
+
    $ sudo gem install jo-couchrest
 
 ### Relax, it's RESTful
