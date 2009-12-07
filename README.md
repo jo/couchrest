@@ -21,6 +21,8 @@ Alternatively, you can install from Github:
 
 ## The TF fork
 
+This fork fixes some attechment upload issue. If you have problems uploading attachements with couchrest maybe this fork is for you.
+
 NOTE: The commands above will install the original sources from [couchrest/couchrest](http://github.com/couchrest/couchrest).
 
 Install it otherwise, maybe I will bring it to gemcutter.
